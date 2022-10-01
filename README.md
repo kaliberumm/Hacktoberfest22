@@ -1,2 +1,2 @@
-# Hakctoberfest22
+# Hakctoberfest 2022
 Hacktoberfest 2022
