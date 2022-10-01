@@ -21,11 +21,11 @@
 ### 1. Fork the Repository
 Fork this repository by pressing the ``Fork`` button in the upper right corner.
 
-<img align="center" width="450" src="assets/image/assets_1.png" alt="git status" />
+<img align="center" width="450" src="assets/image/assets_1.PNG" alt="git status" />
 
 ### 2. Clone Repository
 Now, Clone this Repository by copying the link on the Code button.
-<img align="center" width="300" src="assets/image/assets_2.png" alt="git status" />
+<img align="center" width="300" src="assets/image/assets_2.PNG" alt="git status" />
 
 Run your terminal and type : 
 ```
