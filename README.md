@@ -25,7 +25,7 @@ Fork this repository by pressing the ``Fork`` button in the upper right corner.
 
 ### 2. Clone Repository
 Now, Clone this Repository by copying the link on the Code button.
-<img align="center" width="300" src="assets/image/assets_2.PNG" alt="git status" />
+<img align="RIGHT" width="300" src="assets/image/assets_2.PNG" alt="git status" />
 
 Run your terminal and type : 
 ```
