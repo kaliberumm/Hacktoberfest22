@@ -46,7 +46,7 @@ git remote add origin <your repository fork link>
 ```
 
 ### 4. Your Contributor
-then, add the file or code that you will contribute to this project. enjoy it 🙃.
+then, add the file or code that you will contribute to this project.
 
 ### 5. Push Your Contribution
 after you contribute, you have to give push command to your repository.
@@ -67,3 +67,11 @@ git push origin <your branch name>
 ```
 
 ### Make a Pull Request 
+After that, in your repository there is a request to make a pull request.
+<img align="center" width="450" src="assets/image/assets_3.png" alt="git status" />
+
+click `Compare & pull request` button.
+
+Soon I will merge all your changes into the main branch of this project. You will receive an email notification once the changes are merged.
+
+Enjoy it 🙃!!!
