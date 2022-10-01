@@ -15,3 +15,55 @@
         <img src="https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white">
     </a>
 </p>
+
+## 🛠️ How To Contribute
+
+### 1. Fork the Repository
+Fork this repository by pressing the ``Fork`` button in the upper right corner.
+
+<img align="center" width="450" src="assets/image/assets_1.png" alt="git status" />
+
+### 2. Clone Repository
+Now, Clone this Repository by copying the link on the Code button.
+<img align="center" width="300" src="assets/image/assets_2.png" alt="git status" />
+
+Run your terminal and type : 
+```
+git clone <paste your link>
+```
+
+### 3. Make a Branch
+Now, you have to create a Branch in the folder that is already filled with this repository.
+
+run this command to create a repository in a local file :
+```
+git init
+```
+
+now, add the remote with the repository you fork :
+```
+git remote add origin <your repository fork link>
+```
+
+### 4. Your Contributor
+then, add the file or code that you will contribute to this project. enjoy it 🙃.
+
+### 5. Push Your Contribution
+after you contribute, you have to give push command to your repository.
+
+run this command for the file you want to push  :
+``` 
+git add <your file>
+```
+
+then, run this command to commit your pull request :
+```
+git commit -m "<your commit name>"
+```
+
+now, push your commit to your repository by running the command :
+```
+git push origin <your branch name>
+```
+
+### Make a Pull Request 
